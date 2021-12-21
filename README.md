@@ -1,4 +1,4 @@
-### [🔗 Here's a link to the site](https://vasugargdev.me/)
+### [Click here - vasugargdev.me](https://vasugargdev.me/)
 
 Personal portfolio page, aspiring jekyll theme.
 
