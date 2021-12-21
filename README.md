@@ -1,52 +1,9 @@
 ### [Click here - vasugargdev.me](https://vasugargdev.me/)
 
-Personal portfolio page, aspiring jekyll theme.
+Personal portfolio page
 
-# To get started: 
 
-Make sure Ruby is installed on your computer, for detailed information on how check this link https://www.ruby-lang.org/en/documentation/installation/
-
-1) fork the repo
-
-2) If you want to utilize gh-pages hosting rename the cloned repository to follow the following format:
-
-``` 
-  username.github.io
-```
-
-3) clone the repo by running in your bash terminal/cmd, make sure to change url below to url of your own fork.
-
-```
-git clone https://github.com/LevytsRoman/levytsroman.github.io.git
-```
-
-4) go into the folder with 
-```
-cd levytsroman.github.io
-```
-
-5) run 
-```
-bundle install
-``` 
-  to install all the necessary gems(those are ruby libraries)
-
-6) run 
-```
-bundle exec jekyll serve
-``` 
-  this will start jekyll which will regenerate your html every time you make a change. You should now be able to navigate to http://localhost:4000 and see the site.
-
-7) finally open a new terminal window and run 
-```
-bash sass_watch.sh
-```
-  This will start sass and compile various sass files into css.
-
-Now that you're up and running try changing _config.yml such as email title, linkedin url etc, restart jekyll and see your changes. 
-* every time you change _config.yml you'll have to restart the server to see your changes.
-
-# Usage
+## Basic structure of the website
 
 Most of the content of the site comes from the ```_data``` folder.
 
@@ -57,4 +14,43 @@ To update projects modify the ```projects.yml```, you can add your own tags and 
 
 If you want to use the form in the contact page, you'll need to make an account with https://formspree.io/. Then simply update the email in the _config.yml to whatever you used to register.
 
-For more info on how to use jekyll visit https://jekyllrb.com/docs/home/
+For more info on how to use jekyll see documentation https://jekyllrb.com/docs/home/
+
+
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/VasuGargDev/VasuGargDev.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VasuGargDev/VasuGargDev.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
