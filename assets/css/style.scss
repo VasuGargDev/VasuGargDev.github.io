@@ -1,0 +1,233 @@
+.brand-logo {
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+.barba-old-container {
+  position: absolute;
+  z-index: 5;
+  visibility: visible !important;
+  top: 0px;
+  left: 0px;
+  width:100%;
+  background-color: transparent;
+  overflow-y: hidden !important;
+}
+
+.barba-new-container {
+  position: absolute;
+  overflow: hidden !important;
+  // visibility: visible !important;
+  z-index: 0;
+  width:100%;
+  top: 0px;
+  left: 0px;
+}
+
+.barba-new-container-back {
+  position: absolute;
+  z-index: 5;
+  visibility: visible !important;
+  top: 0px;
+  left: 0px;
+  width:100%;
+  background-color: transparent;
+  overflow-y: hidden !important;
+}
+
+#projects, .about-me, #algorithms {
+
+  h3 {
+    font-family: 'Abril Fatface', cursive;
+    font-weight: 600;
+    letter-spacing: 1.2;
+  }
+  .card-title {
+    font-family: 'Abril Fatface', cursive;
+    font-weight: 600;
+    letter-spacing: 1.2;
+  }
+  .hidden {
+    display: none;
+  }
+
+  .project-img {
+    width: 500px;
+    height: 300px;
+  }
+
+  .project-wrapper {
+    width: 100%;
+  }
+
+  .card {
+    width: 31.3%;
+    height: 520px;
+    display: inline-block;
+    float: left;
+    margin: 1% 1% 1% 1%;
+  }
+
+  .content {
+    min-height: 100vh;
+  }
+
+  @media all and (max-width: 990px) {
+    .card {
+      width: 48%;
+    }
+  }
+
+  @media all and (max-width: 600px) {
+    .card {
+      width: 98%;
+      min-width: 320px;
+      margin: 5% 1% 5% 1%;
+    }
+  }
+
+  .description {
+    font-family: $font2;
+    font-size: 1.1em;
+  }
+
+
+  .about-me p {
+    color: white !important;
+    margin: 4%;
+    font-size: 25px;
+    font-weight: 400;
+    text-align: justify;
+    text-indent: 50px;
+    font-family: $font2;
+  }
+}
+
+#nav-mobile a, #mobile-demo a {
+  font-family: $font2;
+  font-size: 1.3rem;
+  margin: 0 10px 0 10px;
+}
+
+nav {
+  margin-bottom: 2%;
+}
+
+.about-me .bio {
+  color: white;
+  padding: 2%;
+}
+
+.technologies {
+  background-color: white;
+  color: #8e5572;
+  padding: 0 2% 0 2%;
+}
+
+.about-me p, .projects-paragraph {
+  margin: 4%;
+  font-size: 25px;
+  font-weight: 400;
+  text-align: justify;
+  text-indent: 50px;
+  font-family: $font2;
+}
+
+.projects-paragraph {
+  color: white;
+}
+
+.about-me li {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 1.5em !important;
+  width: 30%;
+  float: left;
+}
+
+i {
+  cursor: pointer;
+}
+
+.tag {
+  background-color: white;
+  color: black;
+  height: 1.5rem;
+  line-height: 1.5rem;
+  margin: 3px;
+  font-size: 1rem;
+  font-weight: 800px;
+}
+
+#filter {
+  background-color: white;
+  color: black;
+  height: 2rem;
+  line-height: 2rem;
+  font-size: 1.2rem;
+  font-weight: 400px;
+}
+
+.active_tag {
+  background-color: lightgrey;
+}
+
+.tag:hover, #filter:hover {
+  background-color: darkgrey;
+}
+
+#algorithms p, .algorithm-content p {
+  color: white !important;
+  margin: 4%;
+  font-size: 25px;
+  font-weight: 400;
+  text-align: justify;
+  text-indent: 50px;
+  font-family: $font2;
+}
+
+#algorithms h3 {
+  color: white;
+}
+
+.algorithm h3 {
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+  font-weight: 600;
+  letter-spacing: 1.2;
+}
+
+#algorithms a {
+  color: #2E294E;
+}
+
+#algorithms a:hover {
+  opacity: 0.9;
+}
+
+.post {
+  border-bottom: solid 1px #2E294E;
+}
+
+.time {
+  font-style: italic;
+  font-family: $font2;
+}
+
+.small-info {
+  color: darkgrey !important;
+  margin: 4%;
+  font-size: 25px;
+  font-weight: 400;
+  text-align: justify;
+  text-indent: 50px;
+  font-family: $font2;
+}
+
+.back-link {
+  font-family: $font2;
+  font-size: 1.2em;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
