@@ -53,6 +53,20 @@
   images: [
     '/assets/images/project_covers/shoot-things-game-cover.png'
   ]
+  
+  #####################################################################################################################################################
+ - name: Tic-tac-toe
+   url: https://dbc-engage-me.herokuapp.com/
+   github_url: https://github.com/LevytsRoman/EngageMe
+   short_description: >
+     Presentation analytics tool that helps presenters capture, monitor and track the audience's emotional reaction to their content in real-time.
+   long_description: >
+     Engage me was a week long final project at <a href='devbootcamp.com'>DevBootcamp</a>. With the help of the Microsoft Cognitive Services API, my team was able to display people's emotions in real time, giving the presenter an overview of how they are doing in real time, as well as the ability to look at the audience's emotion-data after the presentation to see shifts in emotions over time.
+   technologies: It's build with HTML5, CSS, javaScript, a ruby on rails back-end, jQuery and materialize for forms and styling and Charts.js for the data-visualization. Hosted on heroku.
+   img: /assets/images/project_covers/engage-me-cover.jpeg
+   tags: back-end Ruby-on-Rails finished javaScript jQuery charts.js materialize ajax HTML5 CSS3
+   id: 1
+
 # - name: Tic-tac-toe
 #   url: https://dbc-engage-me.herokuapp.com/
 #   github_url: https://github.com/LevytsRoman/EngageMe
