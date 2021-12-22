@@ -39,6 +39,7 @@
   images: [
     '/assets/images/project_covers/hack-overflow-cover.png'
   ]
+  
 - id: 4
   title: ShootThingsGame
   url: https://levytsroman.github.io/shootThingsGame/
