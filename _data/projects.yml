@@ -39,7 +39,7 @@
   title: Statistics activities #stack overflow clone
   url: https://dbc-hackoverflow.herokuapp.com/
   github_url: https://github.com/wvicioso/hackoverflow
-  description: A standard discussion board app that's an attempt at a very simple version of the popular programming platform <a href='stackoverflow.com'>StackOverflow</a>. It allows users to ask questions, give answers and make comments as well as vote up or down on each of the above.
+  description: A standard discussion board app thats an attempt at a very simple version of the popular programming platform <a href='stackoverflow.com'>StackOverflow</a>. It allows users to ask questions, give answers and make comments as well as vote up or down on each of the above.
   technologies: [
                   html5-plain,
                   css3-plain-wordmark,
@@ -93,7 +93,21 @@
   ]
 
   #####################################################################################################################################################
-
+- id: 6
+  title: TipCalculator
+  url: https://levytsroman.github.io/TipCalculator/
+  github_url: https://github.com/LevytsRoman/TipCalculator
+  description: If you were ever in a restaurant with a group of friends (or people you dont completely loathe) and you have had a hard time figuring out how much each person needs to tip, look no further!!! This lightweight web-app will calculate it for you.
+  technologies: [
+                  html5-plain,
+                  css3-plain-wordmark
+                  javascript-plain,
+                  #jquery
+                ]
+  cover: /assets/images/project_covers/tic-tac-toe-cover.jpg
+  images: [
+    '/assets/images/project_covers/tip-calculator-cover.png'
+  ]
 
 # - name: Tic-tac-toe
 #   url: https://dbc-engage-me.herokuapp.com/
