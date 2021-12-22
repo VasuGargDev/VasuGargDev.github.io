@@ -1,5 +1,5 @@
 - id: 1
-  title: PC build
+  title: PC build #Shooting things game
   url: https://levytsroman.github.io/shootThingsGame/
   github_url: https://github.com/LevytsRoman/shootThingsGame
   description: A small javaScript browser game, featuring a red plane (player) and an unhealthy onslaught of enemy planes flying over a pictureque rendering of my favorite planet (Earth) in MS Paint.
@@ -14,7 +14,7 @@
   ]
 
 - id: 2
-  title: Climate clock
+  title: Climate clock #tic tac toe
   url: https://tic-or-treat.herokuapp.com/
   github_url: https://github.com/nyc-bobolinks-2016/tic_or_treat
   description: A simple tic-tac-toe game allowing both registered and unregistered users to play against a computer. Logged-in users have the benefit of viewing various statistics about their past games and resuming unfinished games.
@@ -36,7 +36,7 @@
   ]
 
 - id: 3
-  title: Statistics activities
+  title: Statistics activities #stack overflow clone
   url: https://dbc-hackoverflow.herokuapp.com/
   github_url: https://github.com/wvicioso/hackoverflow
   description: A standard discussion board app that's an attempt at a very simple version of the popular programming platform <a href='stackoverflow.com'>StackOverflow</a>. It allows users to ask questions, give answers and make comments as well as vote up or down on each of the above.
@@ -56,7 +56,7 @@
   ]
   
 - id: 4
-  title: To-do list x progress tracker/habit builder
+  title: To-do list x progress tracker/habit builder #shooting things game
   url: https://levytsroman.github.io/shootThingsGame/
   github_url: https://github.com/LevytsRoman/shootThingsGame
   description: A small javaScript browser game, featuring a red plane (player) and an unhealthy onslaught of enemy planes flying over a pictureque rendering of my favorite planet (Earth) in MS Paint.
@@ -71,7 +71,7 @@
   ]
 
 - id: 5
-  title: Handwritten equation solving
+  title: Handwritten equation solving #tic tac toe
   url: https://tic-or-treat.herokuapp.com/
   github_url: https://github.com/nyc-bobolinks-2016/tic_or_treat
   description: A simple tic-tac-toe game allowing both registered and unregistered users to play against a computer. Logged-in users have the benefit of viewing various statistics about their past games and resuming unfinished games.
@@ -93,6 +93,7 @@
   ]
 
   #####################################################################################################################################################
+
 
 # - name: Tic-tac-toe
 #   url: https://dbc-engage-me.herokuapp.com/
