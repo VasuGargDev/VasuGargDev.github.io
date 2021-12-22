@@ -1,5 +1,5 @@
 - id: 2
-  title: Tic tac toe
+  title: Climate clock
   url: https://tic-or-treat.herokuapp.com/
   github_url: https://github.com/nyc-bobolinks-2016/tic_or_treat
   description: A simple tic-tac-toe game allowing both registered and unregistered users to play against a computer. Logged-in users have the benefit of viewing various statistics about their past games and resuming unfinished games.
