@@ -1,7 +1,4 @@
-
-## Live project url:-
-<a href="https://vasugargdev.me/" target="_blank"><b>vasugargdev.me</b></a>
-
+## Live project url [**vasugargdev,me**](https://vasugargdev.me//)
 
 ### Basic structure of the website
 
