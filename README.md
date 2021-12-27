@@ -1,4 +1,4 @@
-## Live project url:- [**vasugargdev,me**](https://vasugargdev.me//)
+## Live project url:- [**vasugargdev.me**](https://vasugargdev.me//)
 
 ### Basic structure of the website
 
