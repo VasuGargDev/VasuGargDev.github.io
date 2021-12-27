@@ -1,9 +1,9 @@
 
-### Live project url:-
-<a href="https://vasugargdev.me/" target="_blank">vasugargdev.me</a>
+## Live project url:-
+<a href="https://vasugargdev.me/" target="_blank"><b>vasugargdev.me</b></a>
 
 
-## Basic structure of the website
+### Basic structure of the website
 
 ● Most of the content of the site comes from the ```_data``` folder.
 
