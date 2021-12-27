@@ -1,6 +1,6 @@
 
 ### Live project url:-
-### [vasugargdev.me](https://vasugargdev.me/){:target="_blank"}
+[vasugargdev.me](https://vasugargdev.me/){:target="_blank"}
 
 
 ## Basic structure of the website
