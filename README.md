@@ -1,6 +1,6 @@
-### [Click here - vasugargdev.me](https://vasugargdev.me/)
 
-
+### Live project url:-
+### [vasugargdev.me](https://vasugargdev.me/){:target="_blank"}
 
 
 ## Basic structure of the website
@@ -12,7 +12,9 @@
 ● To update projects modify the ```projects.yml```, you can add your own tags and later reference them in ```_includes/project_box``` by putting 
 ```{{project.your_tag}}``` in the html.
 
-● To use the form in the contact page, create an account with https://formspree.io/. Then simply update the email in the _config.yml to whatever you used to register.
+● To use the form in the contact page, create an account with https://formspree.io/. Then simply update the email in the ```contact.html``` to the form end point url generated after creating your new form in Formspree.
+
+● The ```_config.yml``` file is meant for settings that affect your whole blog, values which you are expected to set up once and rarely edit after that.
 
 For more info on how to use jekyll see documentation https://jekyllrb.com/docs/home/
 
