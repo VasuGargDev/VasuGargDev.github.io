@@ -1,6 +1,5 @@
 ## Live hosted url:- [**vasugarg.live**](https://vasugarg.live/)
-
-# Or  [**vasugargdev.github.io**](https://vasugargdev.github.io/)
+### Or  [**vasugargdev.github.io**](https://vasugargdev.github.io/)
 
 
 ## Basic structure of the website
